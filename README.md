@@ -4,7 +4,7 @@
 ![](https://m1nzhi.oss-cn-beijing.aliyuncs.com/secinstruc.png)
 
 **协同编写方式**
-1. 本指南和Github `f4cknet/sec-enterprise` 保持同步，小伙伴们可以在该仓库的issue中编写相关内容。比如觉得哪里写的不对，你建议应该怎么写？
+1. 本指南和Github `f4cknet/sec-enterprise` 保持同步，小伙伴们可以在该仓库的[issue](https://github.com/f4cknet/sec-enterprise/issues/new)中编写相关内容。比如觉得哪里写的不对，你建议应该怎么写？
 2. 私下交流：通过infosecnote公众号发我私信、或者发送邮件到zmzsg100@gmail.com和我交换私人微信。
 
 
